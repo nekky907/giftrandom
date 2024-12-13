@@ -86,7 +86,7 @@ function App() {
         )}
         {finalGift && (
           <h2 className="text-danger">
-            Your Gift: <strong>{finalGift}</strong> 🎉
+            Your Gift Is: <strong>{finalGift}</strong> 🎉
           </h2>
         )}
       </div>
