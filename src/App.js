@@ -86,11 +86,11 @@ function App() {
         )}
         {finalGift && (
           <h2 className="text-danger">
-            Final Gift: <strong>{finalGift}</strong> 🎉
+            Your Gift: <strong>{finalGift}</strong> 🎉
           </h2>
         )}
       </div>
-      <div className="text-center mb-4" idName="reset">
+      <div className="text-center mb-4">
       <button className="btn btn-danger" onClick={resetApp}>
           Reset
         </button>

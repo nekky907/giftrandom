@@ -2,7 +2,7 @@
   "name": "giftrandom2024",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nekky907.github.io/MyLittleProject",
+  "homepage": "https://nekky907.github.io/giftrandom",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
